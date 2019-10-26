@@ -1,0 +1,296 @@
+  Requirements Before Installing:
+
+A Nexus Premium account is required.
+All Fallout 4 DLC is required, except for the Hi Res DLC.
+100 gigs of free space.
+A clean Fallout 4 installation.
+
+Installation Instructions:
+
+Download the latest version of Wabbajack from Github or the #builds channel on the Wabbajack Discord server.
+Save/move Wabbajack.exe into a new folder called Wabbajack. Keep this folder at the root of a drive (example: D:\Wabbajack).
+Download the latest BananaSplit.modlist_v2 file from the release channel on the Wabbajack Discord.
+Save the modlist file to the same folder in which you downloaded Wabbajack.
+Create a new folder at the root of your drive (example: D:\Banana Split).
+Launch Wabbajack.exe.
+Click "Install a Modlist"
+Navigate to the Wabbajack folder, and select the BananaSplit.modlist_v2 file.
+In the "Installation Location" selection, navigate to the new Banana Split folder you just created.
+The "Download Location" section should autocomplete.
+Click "Begin"
+This length of this process varies depending on your system specs. It will most likely take several hours.
+Do not close Wabbajack before it prompts you to do so. A message will appear in the bottom left pane when installation is complete.
+
+Post Installation Instructions:
+
+Navigate to the folder in which you installed the Banana Split modlist.
+Open the "Game Folder Files" folder.
+Select all of the loose files, as well as the "ENB Series" folder.
+Right click and select "Copy"
+Navigate to your FO4 directory (steam\steamapps\common\Fallout 4).
+Right click in a blank area and select "Paste"
+Navigate back to your modlist installation folder.
+Launch the ModOrganizer.exe file.
+In the dropdown list of executables, click <Edit...>
+In the left pane, click "FO4 QuickAutoClean"
+Update the "Binary" and Start In" paths to make sure they align with your setup. This tool is included with your modlist installation, in the Tools folder.
+When finished, select OK to close the window.
+In the dropdown list of executables, navigate to "FO4 QuickAutoClean"
+Select "Run"
+A window will pop up with all of the mods in the load order. All of the checkboxes will be unticked.
+Only select ONE file at a time.
+Note: If you have multiple FO4 modlist installations, make a backup of your vanilla ESMs before cleaning, then add the cleaned ESMs to a new folder called "Cleaned ESMs" and install it as a mod, then return the vanilla ESMs to the Fallout 4 directory.
+
+DO NOT CLEAN FALLOUT4.ESM
+
+The files you need to clean are the following:
+DLCRobot.esm
+DLCWorkshop1.esm
+DLCWorkshop2.esm
+DLCWorkshop3.esm
+DLCCoast.esm
+DLCNukaWorld.esm
+
+When cleaning is complete, head over to http://enbdev.com/mod_fallout4_v0393.htm.
+Download the 0.393 archive.
+Extract the enbseries archive.
+Open the Wrapper Version.
+Copy d3d11.dll and d3dcompiler_46e.dll.
+Paste them into your Fallout 4 directory.
+Copy all loose files in Game Folder Files, as well as the enbseries folder.
+Paste them into your FO4 directory.
+
+Congrats, that's it! Now you can play the Banana Split modlist. Make sure to always launch the game with the F4SE option via Mod Organizer 2.
+However, there are still a few steps to take to make the game behave properly.
+
+Post-Installation Instructions:
+
+ImmersiveHUD MCM:
+You can set the default options to whatever you like.
+
+VAFS Redux MCM:
+Change the "Focus" hotkey to Q, and the "Critical" hotkey to Z.
+Note that if you do set VAFS to Q, you will have to open the game settings and unbind VATS, or move it to a key other than Q.
+
+WheelMenu MCM:
+Change the "Toggle Key" to whatever you like. I use Mouse4.
+
+Workshop Framework MCM:
+Select the "Options Tab.
+Change "Allow Settlements to Leave" to Off (if you want).
+
+Workshop Plus MCM:
+Hotkeys:
+Undo: Ctrl+Z
+Toggle Flight: B
+Toggle Speed Buff: N
+
+Full Mod List:
+4k HD Retexture Pack - Miscellaneous Props (https://www.nexusmods.com/fallout4/mods/7003)
+A Sensible Prydwen Overhaul (https://www.nexusmods.com/fallout4/mods/24198)
+Achievements (https://www.nexusmods.com/fallout4/mods/12465)
+Acadia Restyled (https://www.nexusmods.com/fallout4/mods/19615)
+Armor and Weapons Keywords Community Resource (AWKCR) (https://www.nexusmods.com/fallout4/mods/6091)
+Armorsmith Extended (https://www.nexusmods.com/fallout4/mods/2228)
+Atomic Radio (https://www.nexusmods.com/fallout4/mods/8704)
+Automatically Lowered Weapons (https://www.nexusmods.com/fallout4/mods/20093)
+Beantown Interiors (https://www.nexusmods.com/fallout4/mods/4612)
+Better Ammo Boxes (https://www.nexusmods.com/fallout4/mods/8087)
+Better Atom Cats Garage (https://www.nexusmods.com/fallout4/mods/14764)
+Better Automatic Weapon Sounds (https://www.nexusmods.com/fallout4/mods/29622)
+Better Boston Airport (https://www.nexusmods.com/fallout4/mods/13958)
+Better Companions (https://www.nexusmods.com/fallout4/mods/18547)
+Better Console (https://www.nexusmods.com/fallout4/mods/26582)
+Better Explosives (https://www.nexusmods.com/fallout4/mods/3648)
+Better Goodneighbor (https://www.nexusmods.com/fallout4/mods/16594)
+Better Settlers (https://www.nexusmods.com/fallout4/mods/4772)
+Better Skylanes Flight 1665 (https://www.nexusmods.com/fallout4/mods/17038)
+Better Skylanes Flight 1981 (https://www.nexusmods.com/fallout4/mods/12827)
+Better The Third Rail (https://www.nexusmods.com/fallout4/mods/15388)
+Better UFO Crash Site (https://www.nexusmods.com/fallout4/mods/13521)
+Binary Speech Checks (https://www.nexusmods.com/fallout4/mods/2100)
+Black Widow Armor (https://www.nexusmods.com/fallout4/mods/21162)
+Boats HD (https://www.nexusmods.com/fallout4/mods/39390)
+Bodyslide and Outfit Studio (https://www.nexusmods.com/fallout4/mods/25)
+BS Defence (https://www.nexusmods.com/fallout4/mods/20137)
+Caliente's Beautiful Bodies Enhancer (CBBE) (https://www.nexusmods.com/fallout4/mods/15)
+CC's HQ Diamond City Textures (https://www.nexusmods.com/fallout4/mods/20784)
+CC's HQ Quarry Textures (https://www.nexusmods.com/fallout4/mods/25611)
+Cleaner Institute (https://www.nexusmods.com/fallout4/mods/30026)
+Coast Sand HD (https://www.nexusmods.com/fallout4/mods/41048)
+Commonwealth Gunfire Overhaul - Realistic Weapon Sounds (https://www.nexusmods.com/fallout4/mods/36511)
+Companion Stealth Distance Fix (https://www.nexusmods.com/fallout4/mods/15823)
+Convenient Bridges (https://www.nexusmods.com/fallout4/mods/26789)
+Crafting Highlight Fix (https://www.nexusmods.com/fallout4/mods/27479)
+CROSS Crit Gore-verhaul (https://www.nexusmods.com/fallout4/mods/23780)
+CROSS Pre-War Cybernetics (https://www.nexusmods.com/fallout4/mods/8609)
+CROSS Courser Strigidae (https://www.nexusmods.com/fallout4/mods/28009)
+CWSS Redux v2 - Craftable Working Showers Sinks Baths Toilets Urinals Kitchens etc (https://www.nexusmods.com/fallout4/mods/14326)
+D.E.C.A.Y. - Better Ghouls (https://www.nexusmods.com/fallout4/mods/2500)
+DEF_UI (https://www.nexusmods.com/fallout4/mods/10654)
+Delightful Dead Fish (https://www.nexusmods.com/fallout4/mods/14726)
+Detailed Deathclaws (https://www.nexusmods.com/fallout4/mods/2865)
+Detailed Urban Food (https://www.nexusmods.com/fallout4/mods/2357)
+Dilapidated - Museum Paintings 8K 4K (https://www.nexusmods.com/fallout4/mods/34896)
+Duffle Bag (https://www.nexusmods.com/fallout4/mods/8879)
+Durable Vertibirds (https://www.nexusmods.com/fallout4/mods/2857)
+Eli's Armour Compendium (https://www.nexusmods.com/fallout4/mods/22431)
+Enclave X-02 Power Armor (https://www.nexusmods.com/fallout4/mods/11017)
+Enhanced Blood Textures (https://www.nexusmods.com/fallout4/mods/212)
+Extended Dialogue Interface (https://www.nexusmods.com/fallout4/mods/27216)
+Eyewear and Mask Retexture (https://www.nexusmods.com/fallout4/mods/5021)
+Fallout 4 Wheel Menu (https://www.nexusmods.com/fallout4/mods/36706)
+Fallout Texture Overhaul Moons (https://www.nexusmods.com/fallout4/mods/160)
+Faster Terminal Displays (https://www.nexusmods.com/fallout4/mods/937)
+Faster Workshop (https://www.nexusmods.com/fallout4/mods/35382)
+FlaconOil's Complete Retexture Project (https://www.nexusmods.com/fallout4/mods/3747)
+FO4 SUN (https://www.nexusmods.com/fallout4/mods/3154)
+Foot Paths UHD HD (https://www.nexusmods.com/fallout4/mods/40652)
+Fusion City Rising - Quest Mod Plus (https://www.nexusmods.com/fallout4/mods/16423)
+Ghastly - Ghoul Eyes Texture (https://www.nexusmods.com/fallout4/mods/5013)
+Glamorous Magnolia (https://www.nexusmods.com/fallout4/mods/10823)
+Glowing Animals Emit Light (https://www.nexusmods.com/fallout4/mods/9239)
+Goodneighbor Expanded (https://www.nexusmods.com/fallout4/mods/37961)
+Gravel Redone 4K (https://www.nexusmods.com/fallout4/mods/17461)
+Grimey Puddles (https://www.nexusmods.com/fallout4/mods/39329)
+Hangman's Alley Interior Apartments (https://www.nexusmods.com/fallout4/mods/16457)
+High Resolution Texture Pack 2K and 4K - Valius (https://www.nexusmods.com/fallout4/mods/318)
+High Tech Buildings HD (https://www.nexusmods.com/fallout4/mods/39672)
+Homemaker - Expaended Settlements (https://www.nexusmods.com/fallout4/mods/1478)
+HQIDR - High Quality Impact Decal Re-texture (https://www.nexusmods.com/fallout4/mods/5663)
+HUDFramework (https://www.nexusmods.com/fallout4/mods/20309)
+Immersive Beantown Brewery (https://www.nexusmods.com/fallout4/mods/31598)
+Immersive Covenant Compound (https://www.nexusmods.com/fallout4/mods/31345)
+Immersive Gunners Plaza (https://www.nexusmods.com/fallout4/mods/30985)
+Immersive Hub City Auto Wreckers (https://www.nexusmods.com/fallout4/mods/35882)
+Immersive HUD - iHUD (https://www.nexusmods.com/fallout4/mods/20830)
+Immersive Mouth and Teeth - 6.0 (https://www.nexusmods.com/fallout4/mods/903)
+Immersive Scrapping (https://www.nexusmods.com/fallout4/mods/9407)
+Immersive Vendors (https://www.nexusmods.com/fallout4/mods/10039)
+Improved Map with Visible Roads (https://www.nexusmods.com/fallout4/mods/1215)
+Improved Shack Bridges (https://www.nexusmods.com/fallout4/mods/8905)
+Inside Jobs - Commonwealth Interiors Add-On (https://www.nexusmods.com/fallout4/mods/27320)
+Institute HQ Sky (https://www.nexusmods.com/fallout4/mods/39653)
+Interiors Enhanced - Darker Ambient Light and Fog (https://www.nexusmods.com/fallout4/mods/8768)
+Keep Commonwealth Radiant Quests Within the Commonwealth (https://www.nexusmods.com/fallout4/mods/19967)
+Langley's HD Textures Workshop (https://www.nexusmods.com/fallout4/mods/1897)
+Laser Bolt FX Fallout 4 Edition (https://www.nexusmods.com/fallout4/mods/8513)
+Laser Weapons 1st Person Reposition (https://www.nexusmods.com/fallout4/mods/23102)
+Level Action Rifle Reload Fix (https://www.nexusmods.com/fallout4/mods/20454)
+Live Action Mr. Handy (https://www.nexusmods.com/fallout4/mods/9571)
+Live Dismemberment (https://www.nexusmods.com/fallout4/mods/16400)
+Loads of Ammo - Switchable Ammunition Types (https://www.nexusmods.com/fallout4/mods/9057)
+Long Range Bullet Holes (https://www.nexusmods.com/fallout4/mods/1075)
+Longer Power Lines (https://www.nexusmods.com/fallout4/mods/2241)
+Looks Menu Customization Compendium (https://www.nexusmods.com/fallout4/mods/24830)
+LooksMenu (https://www.nexusmods.com/fallout4/mods/12631)
+Lost AWKCR VIS-G Patches (https://www.nexusmods.com/fallout4/mods/40666)
+Lots More Facial Hair (https://www.nexusmods.com/fallout4/mods/10746)
+Lots More Female Hairstyles (https://www.nexusmods.com/fallout4/mods/10543)
+Lots More Male Hairstyles (https://www.nexusmods.com/fallout4/mods/10695)
+Loving Cait (https://www.nexusmods.com/fallout4/mods/7915)
+Lucid's Texture Upgrades (https://www.nexusmods.com/fallout4/mods/37799)
+luxor8071's HD Texture Pack (https://www.nexusmods.com/fallout4/mods/34181)
+M26 Fragmentation Grenade Replacer (https://www.nexusmods.com/fallout4/mods/37749)
+Main Quest Choices Extended (https://www.nexusmods.com/fallout4/mods/19835)
+Manufacturing Extended (https://www.nexusmods.com/fallout4/mods/15429)
+Mika999's Better Series Merged (https://www.nexusmods.com/fallout4/mods/18557)
+Mod Configuration Menu (https://www.nexusmods.com/fallout4/mods/21497)
+More Realistic Pipe Weapon Textures (https://www.nexusmods.com/fallout4/mods/3181)
+More Uniques - Unique Weapons Expansion (https://www.nexusmods.com/fallout4/mods/18357)
+New Calibers (https://www.nexusmods.com/fallout4/mods/8588)
+NMC's Texture Bundle (https://www.nexusmods.com/fallout4/mods/31814)
+No Aggro Impact Landing (https://www.nexusmods.com/fallout4/mods/9019)
+No Bethesda and SPECIAL Intro (https://www.nexusmods.com/fallout4/mods/361)
+No More Cash Register Sound When XP Gain (https://www.nexusmods.com/fallout4/mods/100)
+No Negative Affinity and No Affinity Cooldown (https://www.nexusmods.com/fallout4/mods/3276)
+NPCs Travel (https://www.nexusmods.com/fallout4/mods/16987)
+Nuka World - Skip Raiding Your Own Settlements (https://www.nexusmods.com/fallout4/mods/18121)
+Nuka World - Fizztop Grille Enhancements (https://www.nexusmods.com/fallout4/mods/22091)
+Nuka-World Bottle Scenery Fix (https://www.nexusmods.com/fallout4/mods/17853)
+Ojo Bueno Texture Pack for Fallout 4 - Performance (https://www.nexusmods.com/fallout4/mods/19630)
+Optimized Vanilla Textures (https://www.nexusmods.com/fallout4/mods/1204)
+Outcasts and Remnants - Quest Mod Plus (https://www.nexusmods.com/fallout4/mods/21469)
+PAMS - Power Armor Movement Sounds (https://www.nexusmods.com/fallout4/mods/1544)
+PerkPointsPerLevel (https://www.nexusmods.com/fallout4/mods/3938)
+Pier HD (https://www.nexusmods.com/fallout4/mods/39317)
+Pip-Boy Flashlight (https://www.nexusmods.com/fallout4/mods/10840)
+Place Everywhere (https://www.nexusmods.com/fallout4/mods/10840)
+Ponytail Hairstyles by Azar (https://www.nexusmods.com/fallout4/mods/8126)
+Project Reality Footsteps (https://www.nexusmods.com/fallout4/mods/35904)
+Project Valkyrie (https://www.nexusmods.com/fallout4/mods/28085)
+Proper Flyers and Posters (https://www.nexusmods.com/fallout4/mods/21477)
+Protectron HD (https://www.nexusmods.com/fallout4/mods/15038)
+Proto Vault Suit (https://www.nexusmods.com/fallout4/mods/2187)
+Prydwen 2K Textures (https://www.nexusmods.com/fallout4/mods/4141)
+Radiant Clouds and Fogs (https://www.nexusmods.com/fallout4/mods/735)
+Randomized Diamond City Guard Outfits (https://www.nexusmods.com/fallout4/mods/12100)
+Raw Input (https://www.nexusmods.com/fallout4/mods/27019)
+Realistic Conversations (https://www.nexusmods.com/fallout4/mods/32514)
+Realistic Ragdoll Force (https://www.nexusmods.com/fallout4/mods/5149)
+Remove Fallout 4 Updates From Main Menu (https://www.nexusmods.com/fallout4/mods/32509)
+Retextured Chems v2 (https://www.nexusmods.com/fallout4/mods/18867)
+Reverb and Ambiance Overhaul (https://www.nexusmods.com/fallout4/mods/10189)
+Salem Expanded (https://www.nexusmods.com/fallout4/mods/27420)
+Salvage Beacons (https://www.nexusmods.com/fallout4/mods/18757)
+SavrenX HD Vanilla Armor (https://www.nexusmods.com/fallout4/mods/40218)
+SavrenX HD Vanilla Clothes (https://www.nexusmods.com/fallout4/mods/40203)
+Scrap Everything (https://www.nexusmods.com/fallout4/mods/5320)
+See Through Scopes (https://www.nexusmods.com/fallout4/mods/9476)
+Settlement Keywords Expanded (https://www.nexusmods.com/fallout4/mods/12226)
+Settlement Limits Slashed (https://www.nexusmods.com/fallout4/mods/14823)
+Settlement Menu Manager (https://www.nexusmods.com/fallout4/mods/24204)
+Settlement Supplies Expanded (https://www.nexusmods.com/fallout4/mods/1145)
+Settler Sandbox Expansion (https://www.nexusmods.com/fallout4/mods/20442)
+Settlers of the Commonwealth (https://www.nexusmods.com/fallout4/mods/8704)
+Shell Rain (https://www.nexusmods.com/fallout4/mods/870)
+Sim Settlements (https://www.nexusmods.com/fallout4/mods/21872)
+Sim Settlements Mega Pack - Year One (https://www.nexusmods.com/fallout4/mods/30396)
+Smooth First Person Sprint (https://www.nexusmods.com/fallout4/mods/29828)
+Snappable Junk Fences (https://www.nexusmods.com/fallout4/mods/9000)
+Solar Panels (https://www.nexusmods.com/fallout4/mods/17168)
+Sporty Underwear (https://www.nexusmods.com/fallout4/mods/15513)
+Spring Cleaning Compatibility Patch (https://www.nexusmods.com/fallout4/mods/12702)
+Stackable Concrete Foundations (https://www.nexusmods.com/fallout4/mods/6362)
+Stairs Ladders Ramps (https://www.nexusmods.com/fallout4/mods/10495)
+Start Me Up (https://www.nexusmods.com/fallout4/mods/18946)
+Steamer Trunks Retextured (https://www.nexusmods.com/fallout4/mods/14035)
+Stromberg Retexture Project (https://www.nexusmods.com/fallout4/mods/14035)
+Super Mutant Redux (https://www.nexusmods.com/fallout4/mods/11853)
+Swinging Animated Meat Bags (https://www.nexusmods.com/fallout4/mods/21087)
+Synths Revamped (https://www.nexusmods.com/fallout4/mods/34436)
+Tales From the Commonwealth (https://www.nexusmods.com/fallout4/mods/8704)
+The Aspen Commonwealth (https://www.nexusmods.com/fallout4/mods/40991)
+The Danse Dilemma (https://www.nexusmods.com/fallout4/mods/21923)
+The Eyes of Beauty (https://www.nexusmods.com/fallout4/mods/133)
+The Kelly Manor Horror (https://www.nexusmods.com/fallout4/mods/27657)
+The Master Plan (https://www.nexusmods.com/fallout4/mods/16626)
+The Mercenary (https://www.nexusmods.com/fallout4/mods/20088)
+Tookie's Textures - Grass and Plants (https://www.nexusmods.com/fallout4/mods/5036)
+Tougher Cars Durable Vehicles (https://www.nexusmods.com/fallout4/mods/3680)
+Towbie's Realistic Weapon Sounds (https://www.nexusmods.com/fallout4/mods/130)
+True Nights (https://www.nexusmods.com/fallout4/mods/9253)
+True Storms (https://www.nexusmods.com/fallout4/mods/4472)
+Ultimate Main Menu Video Replacer (https://www.nexusmods.com/fallout4/mods/9762)
+Unofficial Fallout 4 Patch (https://www.nexusmods.com/fallout4/mods/4598)
+VAFS Redux (https://www.nexusmods.com/fallout4/mods/36519)
+Valentine Reborn (https://www.nexusmods.com/fallout4/mods/9568)
+Vanilla Extensions (https://www.nexusmods.com/fallout4/mods/10032)
+Varied Diamond City Guards (https://www.nexusmods.com/fallout4/mods/15419)
+Vault 111 Exteriors 4K (https://www.nexusmods.com/fallout4/mods/39990)
+Vault 111 HD (https://www.nexusmods.com/fallout4/mods/40118)
+VIS-G Item Sorting (https://www.nexusmods.com/fallout4/mods/33383)
+VIS-G Legendary Modification (https://www.nexusmods.com/fallout4/mods/33449)
+Visible Companion Affinity (https://www.nexusmods.com/fallout4/mods/10660)
+Vivid Fallout - All in One (https://www.nexusmods.com/fallout4/mods/25714)
+Wall Pass-Through Power Conduits (https://www.nexusmods.com/fallout4/mods/20262)
+Warwick Homestead - Bridge to Spectacle Island (https://www.nexusmods.com/fallout4/mods/23275)
+Wasteland Creatures Redone (https://www.nexusmods.com/fallout4/mods/7951)
+We Are the Minutemen (https://www.nexusmods.com/fallout4/mods/6443)
+Weaponsmith Extended (https://www.nexusmods.com/fallout4/mods/10737)
+Wetness Shader Fix (https://www.nexusmods.com/fallout4/mods/23389)
+WIPAG - Worsin's Immersive Power Armor Garage (https://www.nexusmods.com/fallout4/mods/2249)
+Workshop Framework (https://www.nexusmods.com/fallout4/mods/35004)
+Workshop Plus (https://www.nexusmods.com/fallout4/mods/35005)
+Workshop Rearranged (https://www.nexusmods.com/fallout4/mods/16181)
+X-02 PipBoy Flashlight Patch (https://www.nexusmods.com/fallout4/mods/16232)
